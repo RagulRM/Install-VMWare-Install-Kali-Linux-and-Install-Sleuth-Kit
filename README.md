@@ -62,10 +62,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 
 ## OUTPUT:
-```
-Name: Tharun kumar M
-Reg No: 212222100056
-```
+
 **VIRTUAL BOX:**
 
 
